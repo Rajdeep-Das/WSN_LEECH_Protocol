@@ -25,11 +25,11 @@ Threshold value
 ## Simulation
 ### There are many both open-source and commercial network simulators for LEACH such as
 
-#### ns (open source)
-#### OPNET (proprietary software)
-#### NetSim (proprietary software)
-#### OMNeT++ (IDE)
-#### TinyOS (open source)
-#### MATLAB
-### References
+##### -> ns (open source)
+##### ->OPNET (proprietary software)
+##### ->NetSim (proprietary software)
+##### ->OMNeT++ (IDE)
+##### ->TinyOS (open source)
+##### ->MATLAB
+##### References
 Heinzelman, W., Chandrakasan, A., and Balakrishnan, H., "Energy-Efficient Communication Protocols for Wireless Microsensor Networks", Proceedings of the 33rd Hawaaian International Conference on Systems Science (HICSS), January 2000. Paper
