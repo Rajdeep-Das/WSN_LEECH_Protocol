@@ -16,7 +16,7 @@ sink.y = ym + 50;
 %sink.y=0.5*ym;
 
 %Number of Nodes in the field
-n = 100;
+n = 200;
 %Optimal Election Probability of a node to become cluster head
 p=0.05;
 packetLength =6400;

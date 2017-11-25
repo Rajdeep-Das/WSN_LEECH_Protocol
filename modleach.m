@@ -13,7 +13,7 @@ ym=300;
 sink.x=100;  %distance of base station from the network
 sink.y=75;
 
-n = 100;         %no of nodes
+n = 200;         %no of nodes
 
 p=0.1;          %probibilty of a node to become cluster head
 
